@@ -1,0 +1,10 @@
+#imgPreview {
+	max-width: 800px; 
+	max-height: 800px;
+	display: block;
+}
+.heightPanel{
+    height: 550px;
+    width: calc(100vw - 800px);
+    background-color: rgb(212, 212, 212);
+}
